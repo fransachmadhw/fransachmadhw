@@ -1,13 +1,38 @@
-- 👋 Hi, I’m @fransachmadhw. Live in Indonesia and currently studying computer science in university
--     Merhaba arkadaşlar! Benim adım Frans. Endonezyalıyım. Programlamayı seviyorum. 
--     Ayrıca ingilizce ve türkçe seviyorum. Memnun oldum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java, Laravel, C++ and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? I have Instagram, Twitter, Facebook, etc. 
-   All of them have the same username @fransachmadhw
+<hr>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
+<a href="https://www.linkedin.com/in/fransahw/">
+  <img align="center" alt="Frans @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  <a href="mailto:franswinata6@gmail.com">
+  <img align="center" alt="Frans @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.twitter.com/fransachmadhw/">
+  <img align="center" alt="Frans @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/fransachmadhw/">
+  <img align="center" alt="Frans @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/fransachmadhw/">
+  <img align="center" alt="Frans @Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/c/FransGamingLow/">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Frans @Youtube Profile" width="22px">
+</a>
+</h1>
 
-<!---
-fransachmadhw/fransachmadhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <em>
+    This is ME, Frans, a 2nd year undergraduate from <a href="https://um.ac.id/eng/"> <b>State University of Malang</b>, Indonesia</a>. <br>
+    A handsome <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***He/Him***😉
+- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I love martial arts such as Taekwondo (South Korea), Silat (Indonesia), Muay Thai (Thailand), and Brazilian Jiu Jitsu (Brazil-Japan) 👊
