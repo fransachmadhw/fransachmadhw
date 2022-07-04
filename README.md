@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />!
 <br>
 <a href="https://www.linkedin.com/in/fransahw/">
   <img align="center" alt="Frans @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -24,15 +24,15 @@
 <p align="center">
   <em>
     This is ME, Frans, a 2nd year undergraduate from <a href="https://um.ac.id/eng/"> <b>State University of Malang</b>, Indonesia</a>. <br>
-    A handsome <b>Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp,<br>who is <b>obsessed</b>
+    A handsome <b>Web Developer</b>&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***He/Him***😉
-- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I love martial arts such as Taekwondo (South Korea), Silat (Indonesia), Muay Thai (Thailand), and Brazilian Jiu Jitsu (Brazil-Japan) 👊
+- &nbsp;Pronouns: ***He/Him***😉
+- &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
+- &nbsp;Fun-Fact: I love martial arts such as Taekwondo (South Korea), Silat (Indonesia), Muay Thai (Thailand), and Brazilian Jiu Jitsu (Brazil-Japan) 👊
