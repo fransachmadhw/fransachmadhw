@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 />!
 <br>
-<a href="https://www.linkedin.com/in/fransahw/">
+<a href="https://www.linkedin.com/in/fransachmadhw/">
   <img align="center" alt="Frans @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:franswinata6@gmail.com">
