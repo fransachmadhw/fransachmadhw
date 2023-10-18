@@ -23,7 +23,7 @@
 
 <p align="center">
   <em>
-    This is ME, Frans, a 3rd year undergraduate from <a href="https://um.ac.id/eng/"> <b>State University of Malang</b>, Indonesia</a>. <br>
+    This is ME, Frans, a 4th year undergraduate from <a href="https://um.ac.id/eng/"> <b>State University of Malang</b>, Indonesia</a>. <br>
     A handsome <b>Front End Developer (Web & Mobile)</b>&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
