@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    This is ME, Frans, a handsome <b>Front End Developer (Web & Mobile)</b>&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Frans, a <b>Front End Developer (Web & Mobile)</b>&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b>&nbsp.
